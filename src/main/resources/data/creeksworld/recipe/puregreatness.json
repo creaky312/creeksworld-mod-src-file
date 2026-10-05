@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": "minecraft:creaking_heart",
+    "b": "minecraft:pale_oak_sapling",
+    "c": "creeksworld:greatness",
+    "d": "minecraft:pale_moss_block"
+  },
+  "result": {
+    "id": "creeksworld:creeksworld",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "creeksworld:block/cresand",
+    "particle": "creeksworld:block/cresand"
+  }
+}

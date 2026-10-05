@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "creeksworld:blocks/cresand",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "creeksworld:cresand"
+        }
+      ]
+    }
+  ]
+}

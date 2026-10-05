@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "creeksworld:block/credirt",
+    "top": "creeksworld:block/cregrass_top",
+    "side": "creeksworld:block/cregrass",
+    "overlay": "creeksworld:block/cregrass_overlay",
+    "particle": "creeksworld:block/credirt"
+  }
+}

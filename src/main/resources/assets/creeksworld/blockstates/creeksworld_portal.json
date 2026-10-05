@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "creeksworld:block/creeksworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "creeksworld:block/creeksworld_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "creeksworld:blocks/credirt",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "creeksworld:credirt"
+        }
+      ]
+    }
+  ]
+}

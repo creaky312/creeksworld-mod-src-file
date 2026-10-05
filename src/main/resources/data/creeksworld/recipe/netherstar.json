@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:soul_sand",
+    "b": "minecraft:soul_soil",
+    "c": "minecraft:netherrack"
+  },
+  "result": {
+    "id": "minecraft:nether_star",
+    "count": 1
+  }
+}

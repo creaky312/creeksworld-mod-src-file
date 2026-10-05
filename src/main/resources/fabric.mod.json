@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "creeksworld",
+  "version": "2.1.3",
+  "name": "creeksworld",
+  "description": "this mod adds creeksworld dimension from 312!",
+  "authors": [
+    "Creek 312"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "All Rights Reserved",
+  "icon": "logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.creeksworld.CreeksworldMod"
+    ],
+    "client": [
+      "net.mcreator.creeksworld.CreeksworldModClient"
+    ]
+  },
+  "mixins": [
+    "creeksworld.mixins.json"
+  ],
+  "accessWidener": "META-INF/creeksworld.classtweaker",
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

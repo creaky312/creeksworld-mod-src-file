@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:resin_block",
+    "b": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "creeksworld:greatness",
+    "count": 1
+  }
+}
